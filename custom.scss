@@ -1,0 +1,9 @@
+$maincolor: rgb(40,102,230);
+
+button {
+  border: 2px solid $maincolor;
+  background: white;
+  width: 200px;
+  height: 60px;
+  outline: none;
+}
