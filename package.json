@@ -1,5 +1,5 @@
 {
-  "name": "ts-react-starter",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,7 @@
   "devDependencies": {
     "@types/react": "^16.8.14",
     "@types/react-dom": "^16.8.4",
+    "react-router-dom": "^5.0.0",
     "sass": "^1.19.0",
     "typescript": "^3.4.4"
   },
